@@ -1,5 +1,13 @@
 # Decodon
 
+## Installation
+```git clone https://github.com/hatch-lab/decodon.git
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
 ## Usage
 `python decodon.py "DNA Sequence"`
 
